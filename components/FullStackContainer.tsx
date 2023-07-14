@@ -20,9 +20,7 @@ const FullStackContainer = () => {
           <div className="w-full flex justify-between">
             <div className="flex justify-between items-center gap-x-2">
               <div className="w-[10px] h-[10px] bg-black rounded-full translate-y-[1px]"></div>
-              <h3 className="text-[12px] leading-tight font-bold text-black/40 ">
-                Running
-              </h3>
+              <h3 className="text-[12px] font-bold text-black/40 ">Running</h3>
             </div>
             <div className="text-[12px] leading-tight font-bold text-black/40">
               146 RPM
